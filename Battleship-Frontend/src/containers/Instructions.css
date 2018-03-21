@@ -1,0 +1,16 @@
+.Instructions {
+  align-items: center;
+  text-align: center;
+}
+
+.CurrentPlayer {
+  color: orange;
+}
+
+.okButton {
+  font-size: 20px;
+  border-radius: 4px;
+  width: 150px;
+  height: 40px;
+  background-color: red;
+}

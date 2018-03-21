@@ -1,0 +1,31 @@
+.Square {
+  flex: 1;
+  min-width: 40px;
+  max-width: 40px;
+  min-height: 40px;
+  max-height: 40px;
+  border: 2px solid #007399;
+  transition: all ease-in-out .6s;
+  cursor: pointer;
+  background-color: #0099cc;
+}
+
+.Square.value1 {
+  background-color: #264d00;
+}
+
+.Square.value2 {
+  background-color: #336600;
+}
+
+.Square.value3 {
+  background-color: #009933;
+}
+
+.Square.value4 {
+  background-color: #999966;
+}
+
+.Square.value5 {
+  background-color: #739900;
+}
